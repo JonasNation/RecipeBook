@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android SQL Connect</string>
+    <string name="submit">Submit</string>
+    <string name="submit_button_description">This button will save your recipes</string>
+    <string name="type_here">type here</string>
+    <string name="records">Records</string>
+    <string name="getrecipe">GetRecipe</string>
+    <string name="new_recipe">New Recipe</string>
+    <string name="recipes">Recipes</string>
+    <string name="my_recipes">My Recipes</string>
+    <string name="preparation_time">Preparation Time</string>
+    <string name="cooking_time">Cooking Time</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="nutrition_per_serving">Nutrition Per Serving</string>
+    <string name="methods">Methods</string>
+    <string name="created_by">Created by</string>
+</resources>
